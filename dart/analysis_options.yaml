@@ -1,0 +1,7 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    file_names: false
+    library_prefixes: false
+    non_constant_identifier_names: false

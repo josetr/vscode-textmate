@@ -5,4 +5,5 @@
 *.lsif
 /temp/
 /types/
+/dart/.dart_tool/
 etc/
